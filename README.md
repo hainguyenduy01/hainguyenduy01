@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML5,CSS3,JavaScript,ReactJS**
 
-- 📫 How to reach me [Linkedin - Nguyen Duy Hai](https://www.linkedin.com/in/hainguyenduy01/)
+- 📫 How to reach me [Linkedin - Nguyen Duy Hai](https://www.linkedin.com/in/hainguyenduy01/) | [Facebook - Nguyễn Duy Hải](https://www.facebook.com/Duyhai1703)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hainguyenduy01](https://github.com/hainguyenduy01)
 
