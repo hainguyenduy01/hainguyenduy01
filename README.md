@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hainguyenduy01&label=Profile%20views&color=0e75b6&style=flat" alt="hainguyenduy01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hainguyenduy01" alt="hainguyenduy01" /></a> </p>
 
 - 🔭 I’m currently learning on [FPT Polytechnic College of Ho Chi Minh](https://caodang.fpt.edu.vn/)
 
