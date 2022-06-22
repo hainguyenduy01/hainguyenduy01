@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning on [FPT Polytechnic College of Ho Chi Minh](https://caodang.fpt.edu.vn/)
 
-- 🌱 I’m currently learning **HTML5,CSS3,JavaScript,ReactJS,TypeScript,TailwindcssAngularJS,VueJS,T**
+- 🌱 I’m currently learning **HTML5,CSS3,JavaScript,ReactJS**
 
 - 📫 How to reach me [Linkedin - Nguyen Duy Hai](https://www.linkedin.com/in/hainguyenduy01/)
 
