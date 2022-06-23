@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hainguyenduy01&label=Profile%20views&color=0e75b6&style=flat" alt="hainguyenduy01" /> </p>
 
 
-- 🔭 I’m currently learning on [FPT Polytechnic College of Ho Chi Minh](https://caodang.fpt.edu.vn/)
+-
 
 - 🌱 I’m currently learning **HTML5,CSS3,JavaScript,ReactJS**
 
