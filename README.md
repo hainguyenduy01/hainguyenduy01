@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hainguyenduy01&label=Profile%20views&color=0e75b6&style=flat" alt="hainguyenduy01" /> </p>
 
 
--
-
 - 🌱 I’m currently learning **HTML5,CSS3,JavaScript,ReactJS**
 
-- 📫 How to reach me [Linkedin - Nguyen Duy Hai](https://www.linkedin.com/in/hainguyenduy01/) | [Facebook - Nguyễn Duy Hải](https://www.facebook.com/Duyhai1703)
+- 📫 How to reach me [Facebook - Nguyễn Duy Hải](https://www.facebook.com/Duyhai1703)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hainguyenduy01](https://github.com/hainguyenduy01)
 
